@@ -5,7 +5,6 @@ optisch anders darstellen kann. LAFManager ist ein kleiner Helfer, der mit sehr
 wenig Code das "Look and Feel" (LaF) einer Swing-Anwendung verändern kann.
 Diese Bibliothek enthält auch einige Look & Feels des wunderbaren Projekts [FlatLaf](https://github.com/JFormDesigner/FlatLaf)
 von der Firma [FormDev Software GmbH](https://www.formdev.com/).
-Diese Bibliothek wurde mit Java 17 getestet.
 
 ## Screenshots
 
@@ -19,7 +18,7 @@ Diese Bibliothek wurde mit Java 17 getestet.
 <dependency>
     <groupId>de.schipplock.gui.swing</groupId>
     <artifactId>lafmanager</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
